@@ -1,0 +1,41 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Coding Club",
+      "description": "We meet every Friday to build small projects together. Beginners are welcome.",
+      "duesAmount": 5,
+      "treasurerName": "Sokha Chan",
+      "memberCount": 24
+    },
+    {
+      "id": 2,
+      "name": "Music Club",
+      "description": "Jam sessions, instrument sharing and a concert at the end of each semester.",
+      "duesAmount": 3,
+      "treasurerName": "Dara Sok",
+      "memberCount": 12
+    },
+    {
+      "id": 3,
+      "name": "Football Club",
+      "description": "Weekly matches and friendly games against other faculties.",
+      "duesAmount": 2,
+      "treasurerName": "Vanna Chea",
+      "memberCount": 31
+    },
+    {
+      "id": 4,
+      "name": "Photography Club",
+      "description": "Photo walks, editing workshops and a yearly exhibition.",
+      "duesAmount": 4,
+      "treasurerName": "Sophea Lim",
+      "memberCount": 18
+    }
+  ],
+  "payments": [
+    { "id": 1, "clubName": "Coding Club", "amount": 5, "date": "2026-11-01", "note": "Nov dues" },
+    { "id": 2, "clubName": "Music Club", "amount": 3, "date": "2026-11-02", "note": "Nov dues" },
+    { "id": 3, "clubName": "Coding Club", "amount": 5, "date": "2026-10-01", "note": "Oct dues" }
+  ]
+}
