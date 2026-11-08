@@ -1,0 +1,6 @@
+<script setup lang="ts"></script>
+
+<template>
+  <h1>Log in</h1>
+  <p>Login form will go here.</p>
+</template>

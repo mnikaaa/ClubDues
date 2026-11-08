@@ -1,0 +1,19 @@
+:root {
+  --p: #0f6e56;
+  --pl: #e1f5ee;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --border: #d9dedc;
+  --bg: #f6f8f7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, 'Segoe UI', Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
